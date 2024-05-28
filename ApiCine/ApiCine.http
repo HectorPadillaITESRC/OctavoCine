@@ -1,0 +1,6 @@
+@ApiCine_HostAddress = http://localhost:5267
+
+GET {{ApiCine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
